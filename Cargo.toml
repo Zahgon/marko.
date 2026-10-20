@@ -1,0 +1,7 @@
+[package]
+name = "marko"
+version = "2.2.4"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
